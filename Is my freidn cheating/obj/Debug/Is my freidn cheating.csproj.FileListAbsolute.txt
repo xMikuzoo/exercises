@@ -1,0 +1,7 @@
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\bin\Debug\Is my freidn cheating.exe.config
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\bin\Debug\Is my freidn cheating.exe
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\bin\Debug\Is my freidn cheating.pdb
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\obj\Debug\Is my freidn cheating.csproj.AssemblyReference.cache
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\obj\Debug\Is my freidn cheating.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\obj\Debug\Is my freidn cheating.exe
+C:\Users\wojciech.krol\Desktop\codewar\Is my freidn cheating\obj\Debug\Is my freidn cheating.pdb

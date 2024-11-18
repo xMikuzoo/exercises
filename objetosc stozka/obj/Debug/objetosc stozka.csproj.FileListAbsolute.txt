@@ -1,0 +1,7 @@
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\bin\Debug\objetosc stozka.exe.config
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\bin\Debug\objetosc stozka.exe
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\bin\Debug\objetosc stozka.pdb
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\obj\Debug\objetosc stozka.csproj.AssemblyReference.cache
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\obj\Debug\objetosc stozka.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\obj\Debug\objetosc stozka.exe
+C:\Users\wojciech.krol\Desktop\codewar\objetosc stozka\obj\Debug\objetosc stozka.pdb
