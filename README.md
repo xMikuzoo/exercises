@@ -30,4 +30,5 @@ Każde zadanie znajduje się w dedykowanym branchu.
   ```bash
   git checkout nazwa-brancha
   ```
+
 3. Eksploruj kod, uruchamiaj i modyfikuj! 🚀
