@@ -1,7 +1,7 @@
 # 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TWOJ-NICK/csharp-zadania?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/TWOJ-NICK/csharp-zadania?color=green&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/xMikuzooK/exercises?color=green&style=for-the-badge)
 ![Codewars](https://img.shields.io/badge/Codewars-Challenges-red?style=for-the-badge&logo=codewars)
 
 ## 📚 **O projekcie**
@@ -10,7 +10,6 @@ To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku 
 - **Ćwiczenia** i własne eksperymenty 👨‍💻
 - Rozwiązania problemów z **Codewars** 🧩
 
-Każde zadanie jest przechowywane w osobnym branchu, co pozwala na zachowanie przejrzystości i ułatwia nawigację.
 
 ---
 
