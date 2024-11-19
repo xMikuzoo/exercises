@@ -1,7 +1,0 @@
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\bin\Debug\przetwarzanie talblic 1D.exe.config
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\bin\Debug\przetwarzanie talblic 1D.exe
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\bin\Debug\przetwarzanie talblic 1D.pdb
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\obj\Debug\przetwarzanie talblic 1D.csproj.AssemblyReference.cache
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\obj\Debug\przetwarzanie talblic 1D.csproj.CoreCompileInputs.cache
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\obj\Debug\przetwarzanie talblic 1D.exe
-C:\Users\wojciech.krol\Desktop\codewar\przetwarzanie talblic 1D\obj\Debug\przetwarzanie talblic 1D.pdb

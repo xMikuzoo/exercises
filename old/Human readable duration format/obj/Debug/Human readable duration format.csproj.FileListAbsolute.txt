@@ -1,7 +1,0 @@
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\bin\Debug\Human readable duration format.exe.config
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\bin\Debug\Human readable duration format.exe
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\bin\Debug\Human readable duration format.pdb
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\obj\Debug\Human readable duration format.csproj.AssemblyReference.cache
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\obj\Debug\Human readable duration format.csproj.CoreCompileInputs.cache
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\obj\Debug\Human readable duration format.exe
-C:\Users\wojciech.krol\Desktop\codewar\Human readable duration format\obj\Debug\Human readable duration format.pdb

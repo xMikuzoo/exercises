@@ -1,7 +1,0 @@
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\obj\Debug\Ćwiczenia - wzorki.csproj.AssemblyReference.cache
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\obj\Debug\Ćwiczenia - wzorki.csproj.CoreCompileInputs.cache
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\bin\Debug\Ćwiczenia - wzorki.exe.config
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\bin\Debug\Ćwiczenia - wzorki.exe
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\bin\Debug\Ćwiczenia - wzorki.pdb
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\obj\Debug\Ćwiczenia - wzorki.exe
-C:\Users\wojciech.krol\Desktop\codewar\Ćwiczenia - wzorki\obj\Debug\Ćwiczenia - wzorki.pdb
