@@ -1,0 +1,7 @@
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\bin\Debug\Most frequently used words in a text.exe.config
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\bin\Debug\Most frequently used words in a text.exe
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\bin\Debug\Most frequently used words in a text.pdb
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\obj\Debug\Most frequently used words in a text.csproj.AssemblyReference.cache
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\obj\Debug\Most frequently used words in a text.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\obj\Debug\Most frequently used words in a text.exe
+C:\Users\wojciech.krol\Desktop\codewar\Most frequently used words in a text\obj\Debug\Most frequently used words in a text.pdb

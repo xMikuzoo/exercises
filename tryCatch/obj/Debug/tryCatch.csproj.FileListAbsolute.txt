@@ -1,0 +1,7 @@
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\bin\Debug\tryCatch.exe.config
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\bin\Debug\tryCatch.exe
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\bin\Debug\tryCatch.pdb
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\obj\Debug\tryCatch.csproj.AssemblyReference.cache
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\wojciech.krol\Desktop\codewar\tryCatch\obj\Debug\tryCatch.pdb
