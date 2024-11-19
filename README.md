@@ -1,7 +1,7 @@
 # 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/xMikuzooK/exercises?color=green&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/xMikuzoo/exercises?color=green&style=for-the-badge)
 ![Codewars](https://img.shields.io/badge/Codewars-Challenges-red?style=for-the-badge&logo=codewars)
 
 ## 📚 **O projekcie**
