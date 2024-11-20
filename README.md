@@ -15,8 +15,9 @@ To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku 
 
 ## 🗂️ **Struktura projektu**
 ### Branches 📋
-Każde zadanie znajduje się w dedykowanym branchu.
-
+- WSEI-nazwa_brancha Zadania z **uczelni** 📘
+- ME-nazwa_brancha **Ćwiczenia** i własne eksperymenty 👨‍💻
+- CW-nazwa_brancha Rozwiązania problemów z **Codewars** 🧩
 
 ---
 
