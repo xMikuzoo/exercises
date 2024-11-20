@@ -8,7 +8,7 @@ namespace przetwarzanie_talblic_1D
         {
             Print(new int[] { -2, -1, 0, 1, 4 }, new int[] { -3, -2, -1, 1, 2, 3 });
             Print(new int[] { 0, 1, 1, 2, 3, 3, 3 }, new int[] { 0, 1, 2, 3, 3 });
-
+            //test gitignore
         }
 
         public static void Print(int[] a, int[] b)
