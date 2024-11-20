@@ -1,3 +1,4 @@
+testuje dopiero
 # 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
