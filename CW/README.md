@@ -1,7 +1,3 @@
-# 🧩 **Odnajdź zadanie na CodeWars w łatwy sposób** 🖥️
+## 🧩 Odnajdź zadanie na CodeWars w łatwy sposób 🖥️
 
-Id zadania:
-
-```bash
-id
-```
+[🔗 Link do zadania](https://www.codewars.com/kata/{id_zadania})
