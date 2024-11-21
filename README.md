@@ -1,43 +1,36 @@
-# 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
+# 👨‍💻 **Moje Eksperymenty (ME)** 🖥️
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/xMikuzoo/exercises?color=green&style=for-the-badge)
-![Codewars](https://img.shields.io/badge/Codewars-Challenges-red?style=for-the-badge&logo=codewars)
+W tej sekcji znajdziesz moje własne projekty i eksperymenty w języku C#. Są to różnorodne ćwiczenia, które realizowałem, aby poszerzać wiedzę i sprawdzać nowe koncepcje.
 
-## 📚 **O projekcie**
+## 📚 **Opis**
 
-To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku C#. Znajdziesz tutaj:
+W folderach znajdziesz:
 
-- Zadania z **uczelni** 📘
-- **Ćwiczenia** i własne eksperymenty 👨‍💻
-- Rozwiązania problemów z **Codewars** 🧩
+- **Projekty małe i większe**: od prostych algorytmów po bardziej złożone aplikacje.
+- **Eksperymenty z frameworkami i bibliotekami**.
+- **Własne pomysły i ciekawostki**.
 
 ---
 
-## 🗂️ **Struktura projektu**
+## 🛠️ **Struktura katalogu**
 
-### Branches 📋
+Każdy projekt jest zapisany w oddzielnym folderze. Nazwy folderów odzwierciedlają nazwę projektu lub temat eksperymentu.
 
-- WSEI **-** Zadania z **uczelni** 📘
-- ME **-** **Ćwiczenia** i własne eksperymenty 👨‍💻
-- CW **-** Rozwiązania problemów z **Codewars** 🧩
+W folderze znajdziesz:
 
-#### PRZEDROSTEK-nazwa to niedokończona wersja danego projektu/zadania
+- Plik `.cs` z kodem źródłowym.
+- Możliwe pliki dodatkowe (np. dokumentacja, testy jednostkowe).
 
 ---
 
-## ✨ **Jak korzystać z repozytorium?**
+## 🏃 **Uruchamianie projektów**
 
-1. Sklonuj repozytorium:
+1. Otwórz folder w IDE, np. **Visual Studio**.
+2. Zapoznaj się z kodem i ewentualnymi notatkami.
+3. Eksperymentuj i rozwijaj pomysły na własną rękę! 🚀
 
-   ```bash
-   git clone https://github.com/xMikuzoo/exercises.git
-   ```
+---
 
-2. Przełącz się na interesujący Cię branch:
+### 🌟 **Dlaczego warto?**
 
-   ```bash
-   git checkout nazwa-brancha
-   ```
-
-3. Eksploruj kod, uruchamiaj i modyfikuj! 🚀
+Te projekty pokazują, jak można stosować różne techniki i podejścia w C#. Zachęcam do analizowania kodu i modyfikowania go według swoich potrzeb!
