@@ -14,15 +14,21 @@ To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku 
 
 ---
 
-## 🗂️ **Struktura projektu**
+### Struktura projektu 🗂️
 
-### Branches 📋
+#### Branches 📋
 
-- WSEI **-** Zadania z **uczelni** 📘
-- ME **-** **Ćwiczenia** i własne eksperymenty 👨‍💻
-- CW **-** Rozwiązania problemów z **Codewars** 🧩
+- **WSEI** **-** Zadania z **uczelni** 📘  
+- **ME** **-** **Ćwiczenia** i własne eksperymenty 👨‍💻  
+- **CW** **-** Rozwiązania problemów z **Codewars** 🧩  
 
-#### PRZEDROSTEK-DEV-nazwa_brancha to niedokończona wersja danego projektu/zadania
+---
+
+🔹 **PRZEDROSTEK-DEV-nazwa_brancha**  
+Wskazuje, że jest to wersja developerska danego projektu lub zadania (np. **WSEI-DEV-nazwa_brancha**). Służy do pracy nad kodem, zanim trafi on do finalnej wersji.
+
+🔸 **WSEI-DEV** i inne podobne branch'e o nazwie kończącej się na "-DEV"  
+Są to branch'e robocze, które nie powinny Cię interesować – używam ich, aby mieć bazę do startu nowych zadań lub projektów.
 
 ---
 
