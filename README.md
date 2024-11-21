@@ -22,7 +22,7 @@ To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku 
 - ME **-** **Ćwiczenia** i własne eksperymenty 👨‍💻
 - CW **-** Rozwiązania problemów z **Codewars** 🧩
 
-#### PRZEDROSTEK-nazwa to niedokończona wersja danego projektu/zadania
+#### PRZEDROSTEK-DEV-nazwa_brancha to niedokończona wersja danego projektu/zadania
 
 ---
 
