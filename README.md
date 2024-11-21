@@ -1,43 +1,36 @@
-# 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
+# 📘 **Zadania z Uczelni (WSEI)** 🖥️
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/xMikuzoo/exercises?color=green&style=for-the-badge)
-![Codewars](https://img.shields.io/badge/Codewars-Challenges-red?style=for-the-badge&logo=codewars)
+W tym katalogu znajdziesz zadania, które wykonałem w trakcie studiów na **WSEI** w ramach przedmiotów związanych z programowaniem w języku C#.
 
-## 📚 **O projekcie**
+## 📚 **Opis**
 
-To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku C#. Znajdziesz tutaj:
+Zadania mają na celu rozwijanie umiejętności programistycznych, takich jak:
 
-- Zadania z **uczelni** 📘
-- **Ćwiczenia** i własne eksperymenty 👨‍💻
-- Rozwiązania problemów z **Codewars** 🧩
+- Podstawy składni języka C#.
+- Rozwiązywanie problemów algorytmicznych.
+- Tworzenie prostych aplikacji.
 
 ---
 
-## 🗂️ **Struktura projektu**
+## 🛠️ **Struktura katalogu**
 
-### Branches 📋
+Każde zadanie jest zapisane w oddzielnym folderze o nazwie odpowiadającej nazwie zadania lub tematowi zajęć.
 
-- WSEI **-** Zadania z **uczelni** 📘
-- ME **-** **Ćwiczenia** i własne eksperymenty 👨‍💻
-- CW **-** Rozwiązania problemów z **Codewars** 🧩
+W folderze znajdziesz:
 
-#### PRZEDROSTEK-nazwa to niedokończona wersja danego projektu/zadania
+- Plik `.cs` z kodem źródłowym.
+- Możliwe pliki z testami lub dodatkowe notatki (np. `README.md` z opisem zadania).
 
 ---
 
-## ✨ **Jak korzystać z repozytorium?**
+## 🏃 **Uruchamianie zadań**
 
-1. Sklonuj repozytorium:
+1. Otwórz projekt w IDE, np. **Visual Studio**.
+2. Skonfiguruj środowisko zgodnie z wymaganiami zadania.
+3. Uruchom kod i eksperymentuj z jego działaniem!
 
-   ```bash
-   git clone https://github.com/xMikuzoo/exercises.git
-   ```
+---
 
-2. Przełącz się na interesujący Cię branch:
+### 🎓 **Uwagi**
 
-   ```bash
-   git checkout nazwa-brancha
-   ```
-
-3. Eksploruj kod, uruchamiaj i modyfikuj! 🚀
+Zadania te mają charakter edukacyjny, więc ich celem jest głównie zrozumienie i praktyka. Zapraszam do analizy i rozbudowy kodu! 🚀
