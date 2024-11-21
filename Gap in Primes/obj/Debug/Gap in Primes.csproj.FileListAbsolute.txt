@@ -1,0 +1,7 @@
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\bin\Debug\Gap in Primes.exe.config
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\bin\Debug\Gap in Primes.exe
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\bin\Debug\Gap in Primes.pdb
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\obj\Debug\Gap in Primes.csproj.AssemblyReference.cache
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\obj\Debug\Gap in Primes.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\obj\Debug\Gap in Primes.exe
+C:\Users\wojciech.krol\Desktop\codewar\Gap in Primes\obj\Debug\Gap in Primes.pdb

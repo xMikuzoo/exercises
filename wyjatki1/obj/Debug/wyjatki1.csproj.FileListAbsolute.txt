@@ -1,0 +1,7 @@
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\bin\Debug\wyjatki1.exe.config
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\bin\Debug\wyjatki1.exe
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\bin\Debug\wyjatki1.pdb
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\obj\Debug\wyjatki1.csproj.AssemblyReference.cache
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\obj\Debug\wyjatki1.csproj.CoreCompileInputs.cache
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\obj\Debug\wyjatki1.exe
+C:\Users\wojciech.krol\Desktop\codewar\wyjatki1\obj\Debug\wyjatki1.pdb
