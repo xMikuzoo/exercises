@@ -1,4 +1,3 @@
-testuje dopiero
 # 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
@@ -6,31 +5,39 @@ testuje dopiero
 ![Codewars](https://img.shields.io/badge/Codewars-Challenges-red?style=for-the-badge&logo=codewars)
 
 ## 📚 **O projekcie**
+
 To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku C#. Znajdziesz tutaj:
+
 - Zadania z **uczelni** 📘
 - **Ćwiczenia** i własne eksperymenty 👨‍💻
 - Rozwiązania problemów z **Codewars** 🧩
 
-
 ---
 
 ## 🗂️ **Struktura projektu**
+
 ### Branches 📋
-- WSEI-nazwa_brancha Zadania z **uczelni** 📘
-- ME-nazwa_brancha **Ćwiczenia** i własne eksperymenty 👨‍💻
-- CW-nazwa_brancha Rozwiązania problemów z **Codewars** 🧩
+
+- WSEI **-** Zadania z **uczelni** 📘
+- ME **-** **Ćwiczenia** i własne eksperymenty 👨‍💻
+- CW **-** Rozwiązania problemów z **Codewars** 🧩
+
+#### PRZEDROSTEK-nazwa to niedokończona wersja danego projektu/zadania
 
 ---
 
 ## ✨ **Jak korzystać z repozytorium?**
+
 1. Sklonuj repozytorium:
+
    ```bash
    git clone https://github.com/xMikuzoo/exercises.git
    ```
 
 2. Przełącz się na interesujący Cię branch:
-  ```bash
-  git checkout nazwa-brancha
-  ```
+
+   ```bash
+   git checkout nazwa-brancha
+   ```
 
 3. Eksploruj kod, uruchamiaj i modyfikuj! 🚀

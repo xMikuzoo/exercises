@@ -1,7 +1,0 @@
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\bin\Debug\Integers_Recreation_one.exe.config
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\bin\Debug\Integers_Recreation_one.exe
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\bin\Debug\Integers_Recreation_one.pdb
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\obj\Debug\Integers_Recreation_one.csproj.AssemblyReference.cache
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\obj\Debug\Integers_Recreation_one.csproj.CoreCompileInputs.cache
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\obj\Debug\Integers_Recreation_one.exe
-C:\Users\wojciech.krol\Desktop\codewar\Integers_Recreation_one\obj\Debug\Integers_Recreation_one.pdb
