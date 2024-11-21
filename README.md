@@ -1,43 +1,29 @@
-# 🎓 **Zadania C# - Repozytorium Edukacyjne** 🖥️
+# 🧩 **Codewars - Rozwiązania Zadań** 🖥️
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xMikuzoo/exercises?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/xMikuzoo/exercises?color=green&style=for-the-badge)
-![Codewars](https://img.shields.io/badge/Codewars-Challenges-red?style=for-the-badge&logo=codewars)
+To katalog zawiera rozwiązania zadań z **Codewars**.
 
-## 📚 **O projekcie**
+## 📚 **Opis**
 
-To repozytorium służy jako zbiór rozwiązań różnorodnych zadań w języku C#. Znajdziesz tutaj:
-
-- Zadania z **uczelni** 📘
-- **Ćwiczenia** i własne eksperymenty 👨‍💻
-- Rozwiązania problemów z **Codewars** 🧩
+**Codewars** to platforma do nauki i doskonalenia programowania przez rozwiązywanie różnorodnych problemów. W tej sekcji znajdziesz moje podejścia do wyzwań, które pomogły mi rozwijać umiejętności w języku C#.
 
 ---
 
-## 🗂️ **Struktura projektu**
+## 🛠️ **Struktura katalogu**
 
-### Branches 📋
+Każde zadanie jest zapisane w oddzielnym folderze o nazwie odpowiadającej nazwie zadania lub jego ID.
 
-- WSEI **-** Zadania z **uczelni** 📘
-- ME **-** **Ćwiczenia** i własne eksperymenty 👨‍💻
-- CW **-** Rozwiązania problemów z **Codewars** 🧩
+W folderze znajdziesz:
 
-#### PRZEDROSTEK-nazwa to niedokończona wersja danego projektu/zadania
+- Plik `.cs` z rozwiązaniem.
+- Możliwe dodatkowe testy jednostkowe lub notatki.
 
 ---
 
-## ✨ **Jak korzystać z repozytorium?**
+## 🏃 **Uruchamianie zadań**
 
-1. Sklonuj repozytorium:
+1. Otwórz projekt w IDE, np. **Visual Studio**.
+2. Uruchom plik z rozwiązaniem w trybie debugowania lub przetestuj zgodnie z załączonymi testami.
 
-   ```bash
-   git clone https://github.com/xMikuzoo/exercises.git
-   ```
+---
 
-2. Przełącz się na interesujący Cię branch:
-
-   ```bash
-   git checkout nazwa-brancha
-   ```
-
-3. Eksploruj kod, uruchamiaj i modyfikuj! 🚀
+Rozwiązania są tworzone z myślą o ich modyfikacji i optymalizacji. Zachęcam do ich eksploracji i własnych usprawnień! 🚀
